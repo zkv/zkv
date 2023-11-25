@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zkv
-- 👀 I’m interested in Nature, Business, Unix and Montessori Education
+- 👀 I’m interested in Life, Nature, Business, Unix and Montessori Education
 - 🌱 I’m currently learning Go + WebRTC
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me: kiryl.zhybul@gmail.com
