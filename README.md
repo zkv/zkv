@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @zkv
-- 👀 I’m interested in life and natural growth, child development and consious parenting, *nix and art.
-- 📫 How to reach me: kiryl.zhybul@gmail.com
+- 👋 Hi *
